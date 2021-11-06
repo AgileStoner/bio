@@ -1,0 +1,51 @@
+body{
+  background-color: #E5E4E2;
+}
+hr {
+	width:  40%;
+	height: 0.5px;
+	background-color:  black;
+}
+p{
+  font-size:20px
+}
+
+ul {
+  color: floralwhite;
+  font-size:20px; background-color: dimgrey;
+	padding: 20px 30px;
+}
+h2 {
+    font-size: 30px;
+}
+li {
+	margin-top: 15px;
+}
+a:link {
+    text-decoration: none;
+    color: darkcyan;
+    text-decoration: transparent;
+}
+
+a:visited {
+    color: midnightblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: royalblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: limegreen;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  .cat{
+    color: floralwhite;
+  	background-color: black;
+  	padding: 5px 15px;
+  }
